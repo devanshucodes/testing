@@ -4,16 +4,22 @@
       "private": true,
       "type": "module",
       "scripts": {
-        "dev": "vite",
-        "build": "vite build",
-        "preview": "vite preview"
+            "dev": "vite",
+            "build": "vite build",
+            "preview": "vite preview"
       },
       "dependencies": {
-        "react": "^18.2.0",
-        "react-dom": "^18.2.0"
+            "@privy-io/react-auth": "^1.97.0",
+            "@telegram-apps/sdk-react": "^2.0.19",
+            "axios": "^1.7.9",
+            "ethers": "^6.13.4",
+            "js-cookie": "^3.0.5",
+            "react": "^18.2.0",
+            "react-dom": "^18.2.0",
+            "viem": "^2.21.55"
       },
       "devDependencies": {
-        "@vitejs/plugin-react": "^4.0.0",
-        "vite": "^4.3.9"
+            "@vitejs/plugin-react": "^4.0.0",
+            "vite": "^4.3.9"
       }
-    }
+}
