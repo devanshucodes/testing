@@ -9,7 +9,6 @@
             "preview": "vite preview"
       },
       "dependencies": {
-            "@privy-io/react-auth": "^1.97.0",
             "@telegram-apps/sdk-react": "^2.0.19",
             "axios": "^1.7.9",
             "ethers": "^6.13.4",
